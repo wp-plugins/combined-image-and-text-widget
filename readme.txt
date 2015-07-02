@@ -23,6 +23,13 @@ Combined Image and Text Widget is a plugin that allows you to effortlessly add t
 
 == Installation ==
 
+= Installation via Wordpress =
+1. Go to the plugins tab, click on "add new link", search for the plugin via the search box and install it.
+2. Activate the plugin.
+4. Drag and drop the Combined Image and Text widget to the desired sidebar in the Widgets page.
+5. Enjoy.
+
+= Manual Installation =
 1. Download a copy of the Combined Image and Text Widget plugin.
 2. Move the combined-image-text-widget folder to your /wp-content/plugins/ directory.
 3. Activate the plugin.

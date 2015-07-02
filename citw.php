@@ -425,6 +425,9 @@ class Combined_Image_Text_Widget extends WP_Widget {
 	}
 }
 
-add_action( 'widgets_init', function(){
-     register_widget( 'combined_image_text_widget' );
-});?>
+add_action( 'widgets_init', 'register_citw_plugin'); 
+
+function register_citw_plugin()
+{
+	register_widget( 'combined_image_text_widget' );
+}?>
