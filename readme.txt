@@ -6,7 +6,7 @@ Plugin URI: http://www.nadavr.com/
 Tags: widget, links, admin, plugin, images, wpml
 License: GPLv2 or later
 Requires at least: 2.8
-Tested up to: 3.8.1
+Tested up to: 4.2.2
 Stable tag: 1
 
 A widget plugin for text and image combinations, with multilingual support.
